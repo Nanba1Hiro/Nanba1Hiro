@@ -19,4 +19,4 @@ I'm here to learn, build, and contribute to that solution-making process.
 
 ---
 
-*“The great thing about software is that it can solve the same problem a million times without ever getting tired.”* – Paraphrased, but always true!
+*“Tech is insane, and I am here for it.”* – Some guy
