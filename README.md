@@ -8,7 +8,7 @@ I'm here to learn, build, and contribute to that solution-making process.
 
 ## 🧠 What I'm Up To
 
--   **Currently Learning:** Solidifying my understanding of Object-Oriented Programming (OOP) principles with **Java**.
+-   **Currently Learning:** Solidifying my understanding of Object-Oriented Programming (OOP) principles with **Java** and learning **Golang**.
 -   **Interests:** I'm keen on exploring how different systems and APIs interact with each other to create seamless experiences.
 -   **Goal:** To build clean, efficient, and practical applications that make a difference.
 
